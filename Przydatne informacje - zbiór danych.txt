@@ -155,7 +155,7 @@ Usługa katalogowa - baza danych, która wystawia informację o użytkownikach i
 (np. przełożeni, biuro w jakim pracuje itp.), oraz o komputerach - działa to w ten sam sposób, gdy korzystamy z
 facebooka lub yt, jesteśmy skatalogowani na tych serwisach, mamy swoje atrybuty które uzupełniamy w większym
 lub mniejszym stopniu, są nadawane nam uprawnienia, zwykle każda organizacja ma jedną usługę katalogową,
-można powiedzieć, że jest to rdzeń firmy, do usługi katalogowej referują różne systemy.
+można powiedzieć, że jest to rdzeń firmy i referują do niej różne systemy.
 
 
 

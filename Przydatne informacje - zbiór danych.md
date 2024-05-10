@@ -49,13 +49,12 @@ Założenia poszczególnych kroków przedsięwzięcia:
 - dokumentacja;
 - prezentacja zaimplementowanego rozwiązania.
 
-```
-Projekt ma na celu transfer wiedzy i podzielenie się doświadczeniem przez pracowników Wydziału Matematyki i Informatyki, Uniwersytetu Warmińsko-Mazurskiego oraz PKP Informatyka sp. z o.o. ze studentami uczestniczącymi w przedmiocie fakultatywnym.  
-Powyższy scenariusz może być rozwijany, zgodnie z Waszymi pomysłami i kreatywnością.  
-Jednakże rozwój scenariusza powinien mieć swoje odzwierciedlenie w dostarczonych materiałach zaprezentowanych przez Was podczas zaliczenia.  
-Podczas oceniania powyższego zadania najwyżej oceniane będą zaprezentowane materiały wytworzone przez Was, ale także cechy zaprezentowane przez Was jak kreatywność, aktywność oraz terminowość przy realizacji poszczególnych zadań.  
-Liczymy, że uczestnictwo w projekcie pozwoli Wam uzyskać doświadczenie przy planowaniu i realizacji projektów, a tym samym na zbudowanie podstaw dla własnego portfolio.
-```
+
+> Projekt ma na celu transfer wiedzy i podzielenie się doświadczeniem przez pracowników Wydziału Matematyki i Informatyki, Uniwersytetu Warmińsko-Mazurskiego oraz PKP Informatyka sp. z o.o. ze studentami uczestniczącymi w przedmiocie fakultatywnym.  
+> Powyższy scenariusz może być rozwijany, zgodnie z Waszymi pomysłami i kreatywnością.  
+> Jednakże rozwój scenariusza powinien mieć swoje odzwierciedlenie w dostarczonych materiałach zaprezentowanych przez Was podczas zaliczenia.  
+> Podczas oceniania powyższego zadania najwyżej oceniane będą zaprezentowane materiały wytworzone przez Was, ale także cechy zaprezentowane przez Was jak kreatywność, aktywność oraz terminowość przy realizacji poszczególnych zadań.  
+> Liczymy, że uczestnictwo w projekcie pozwoli Wam uzyskać doświadczenie przy planowaniu i realizacji projektów, a tym samym na zbudowanie podstaw dla własnego portfolio.
 
 ---
 ### DOKUMENT - Domena AreoTrans (DO WYKONANIA)
@@ -97,9 +96,9 @@ W pliku tym znajdują się również zadania jakie mamy wykonać.
 ### DOKUMENT - GLPi Ćwiczenia - zasilenie ActiveDirectory 1.1 (DO WYKONANIA)
 
 #### Ważne zadanie, które musimy wykonać:
-```
-Utwórz masowo konta użytkowników, oraz grupy zabezpieczeń w Katalogu ActiveDirectory na podstawie listy csv.
-```
+
+> Utwórz masowo konta użytkowników, oraz grupy zabezpieczeń w Katalogu ActiveDirectory na podstawie listy csv.
+
 
 Zadanie częściowo przerobiliśmy wspólnie na zajęciach, posiadamy wiedzę i umiejętności by je wykonać.
 
